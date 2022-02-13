@@ -9,6 +9,7 @@ public class JavaApplication15 {
 
 public static void run() {
     System.out.println(" Hello!");
+   System.out.println(" Hello! GlassFish");
 }
     
      
